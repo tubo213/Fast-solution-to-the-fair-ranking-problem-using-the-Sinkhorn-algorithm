@@ -11,6 +11,10 @@ We thus propose a fast solution to the impact-based fair ranking problem.
 We first transform the fair ranking problem into an unconstrained optimization problem and then design a gradient ascent method that repeatedly executes the Sinkhorn algorithm. 
 Experimental results demonstrate that our algorithm provides fair rankings of high quality and is about 1000 times faster than application of commercial optimization software.
 
+## Paper Links
+- [arxiv](https://arxiv.org/abs/2406.10262)
+- [Springer](https://link.springer.com/chapter/10.1007/978-981-96-0128-8_18)
+
 ## Build Environment
 
 ### 1. install [rye](https://github.com/mitsuhiko/rye)
